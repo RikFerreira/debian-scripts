@@ -3,4 +3,4 @@ sudo apt install build-essential \
                  curl \
                  apt-transport-https \
                  dirmngr \
-                 links
+                 qutebrowser

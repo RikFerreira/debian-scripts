@@ -11,6 +11,11 @@ echo -e "Subdiretório ~/.local"
 mkdir -p "$HOME/.local/opt"
 mkdir -p "$HOME/.local/share"
 
+# sources.list
+echo -e "Copiando sources.list"
+sudo cp etc/apt/sources.list "/etc/apt/sources.list"
+sudo sh etc/apt/gpg-keys
+
 # Arquivos de configuração
 echo -e "Copiando arquivos de configuração"
 cp home/bash_profile "$HOME/.bash_profile"

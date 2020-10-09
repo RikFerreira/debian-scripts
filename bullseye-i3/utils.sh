@@ -4,4 +4,6 @@ sudo apt install libreoffice \
                  vlc \
                  vlc-l10n \
                  transmission \
-                 telegram-desktop
+                 telegram-desktop \
+                 firefox-mozilla-build \
+                 libdbus-glib-1-2
