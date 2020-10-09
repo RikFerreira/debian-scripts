@@ -15,7 +15,7 @@ mkdir -p "$HOME/.local/share"
 echo -e "Copiando arquivos de configuração"
 cp home/bash_profile "$HOME/.bash_profile"
 cp home/Xdefaults "$HOME/.Xdefaults"
-cp home/fehbg "$HOME/.fehbg"
+cp config/i3/config "$HOME/.config/i3/config"
 cp -R config "$HOME/.config"
 
 # Papéis de parede e fontes
