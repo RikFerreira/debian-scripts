@@ -3,6 +3,8 @@ sudo apt install xorg \
                  i3blocks \
                  i3status \
                  suckless-tools \
+                 lightdm \
+                 lightdm-gtk-greeter \
                  rofi \
                  ranger \
                  rxvt-unicode \
