@@ -1,9 +1,11 @@
 sudo apt install r-base \
                  r-base-dev \
-                 r-base-core
+                 r-base-core \
+                 r-cran-tidyverse \
+                 r-cran-sf --fix-missing
 
-wget https://download1.rstudio.org/desktop/bionic/amd64/rstudio-1.3.1093-amd64.deb -v
+sudo wget https://download1.rstudio.org/desktop/bionic/amd64/rstudio-1.3.1093-amd64.deb --show-progress --directory-prefix=/tmp
 
-sudo apt install "$HOME/rstudio-1.3.1093-amd64.deb" -f
+sudo apt install "/tmp/rstudio-1.3.1093-amd64.deb" -f
 
-rm -f "$HOME/rstudio-1.3.1093-amd64.deb"
+sudo rm -f "/tmp/rstudio-1.3.1093-amd64.deb"
