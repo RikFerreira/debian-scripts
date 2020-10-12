@@ -14,3 +14,7 @@ sudo cp etc/apt/sources.list "/etc/apt/sources.list"
 sudo sh etc/apt/gpg-keys
 
 sudo apt update
+
+# Backup do arquivo fstab
+echo -e "Fazendo backup do fstab"
+sudo cp "/etc/fstab" "/etc/fstab.old"
