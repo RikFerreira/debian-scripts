@@ -1,6 +1,6 @@
 sudo apt install xorg \
                  i3-wm \
-                 i3status \
+                 i3blocks \
                  suckless-tools \
                  lightdm \
                  rofi \
@@ -8,7 +8,7 @@ sudo apt install xorg \
                  rxvt-unicode \
                  feh \
                  scrot \
-                 nm-tray \
+                 network-manager-desktop \
                  vim \
                  neofetch \
                  synaptic \

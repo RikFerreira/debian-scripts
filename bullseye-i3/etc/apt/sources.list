@@ -1,11 +1,3 @@
-# bullseye
-# deb http://ftp.br.debian.org/debian/ bullseye main contrib non-free
-# deb-src http://ftp.br.debian.org/debian/ bullseye main contrib non-free
-
-# bullseye security
-# deb http://security.debian.org/debian-security bullseye-security main contrib non-free
-# deb-src http://security.debian.org/debian-security bullseye-security main contrib non-free
-
 #------------------------------------------------------------------------------#
 #                   OFFICIAL DEBIAN REPOS                    
 #------------------------------------------------------------------------------#
