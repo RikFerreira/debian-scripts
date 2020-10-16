@@ -1,6 +1,7 @@
 sudo apt install xorg \
                  i3-wm \
                  i3blocks \
+		 i3lock \
                  suckless-tools \
                  lightdm \
                  rofi \
