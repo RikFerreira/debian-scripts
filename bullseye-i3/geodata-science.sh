@@ -24,5 +24,5 @@ sudo apt install python3-pip
 # Instalação do ambiente de escrita (LaTeX)
 sudo apt install texlive \
                  pandoc \
-        		 ttf-mscorefonts-installer
+                 ttf-mscorefonts-installer
 

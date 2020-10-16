@@ -10,3 +10,5 @@ sudo apt install libreoffice \
                  qutebrowser \
                  firefox-mozilla-build \
                  libdbus-glib-1-2
+                 moc \
+                 mplayer
