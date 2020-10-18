@@ -10,7 +10,8 @@ sudo apt install r-base \
                  r-cran-tidygraph \
                  r-cran-knitr \
                  r-cran-rmarkdown \
-                 r-cran-tinytex
+                 r-cran-tinytex \
+                 r-cran-survey
 
 
 # Instalação do RStudio

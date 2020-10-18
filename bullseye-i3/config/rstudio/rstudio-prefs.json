@@ -1,0 +1,48 @@
+{
+    "restore_source_documents": false,
+    "full_project_path_in_window_title": true,
+    "save_workspace": "never",
+    "load_workspace": false,
+    "always_save_history": false,
+    "pdf_previewer": "none",
+    "posix_terminal_shell": "bash",
+    "num_spaces_for_tab": 4,
+    "show_margin": false,
+    "syntax_color_console": true,
+    "scroll_past_end_of_document": true,
+    "auto_append_newline": true,
+    "panes": {
+        "quadrants": [
+            "Source",
+            "TabSet1",
+            "Console",
+            "TabSet2"
+        ],
+        "tabSet1": [
+            "Environment",
+            "History",
+            "Connections",
+            "Build",
+            "VCS",
+            "Tutorial",
+            "Presentation"
+        ],
+        "tabSet2": [
+            "Files",
+            "Plots",
+            "Packages",
+            "Help",
+            "Viewer"
+        ],
+        "console_left_on_top": false,
+        "console_right_on_top": true
+    },
+    "editor_theme": "rscodeio",
+    "highlight_selected_line": true,
+    "show_indent_guides": true,
+    "highlight_r_function_calls": true,
+    "font_size_points": 12,
+    "initial_working_directory": "/mnt/HDD/STORAGE/Projetos R",
+    "default_project_location": "/mnt/HDD/STORAGE/Projetos R",
+    "jobs_tab_visibility": "shown"
+}
